@@ -294,12 +294,4 @@ Pressure slice at the $z$-midplane, showing the reconstructed pressure field fro
 
 ---
 
-### Reference
-
-> Canuto, C., Hussaini, M. Y., Quarteroni, A., & Zang, T. A. (1988). *Spectral Methods in Fluid Dynamics.* Springer.
->
-> Kim, J., Moin, P., & Moser, R. (1987). *Turbulence statistics in fully developed channel flow at low Reynolds number.* Journal of Fluid Mechanics, 177, 133–166.
-
----
-
 *Solver: 3D Pressure Poisson Equation — Fourier (x, z) × Chebyshev (y) spectral decomposition with even–odd tridiagonal solve and Tau BC enforcement.*
