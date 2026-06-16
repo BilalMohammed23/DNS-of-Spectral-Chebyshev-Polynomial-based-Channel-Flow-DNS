@@ -32,7 +32,7 @@ All solvers are implemented in **MATLAB**. No external toolboxes are required be
 
 ## Key Numerical Features
 
-- Chebyshev–Gauss–Lobatto collocation in the wall-normal direction
+- Chebyshev–Polynomials along the wall-normal direction and Fourier Transforms along streamwise and spanwise direction
 - Fourier pseudospectral discretisation in periodic directions
 - 3/2-rule de-aliasing for nonlinear terms
 - Adams–Bashforth (explicit) for nonlinear terms, Crank–Nicolson (implicit) for viscous terms
