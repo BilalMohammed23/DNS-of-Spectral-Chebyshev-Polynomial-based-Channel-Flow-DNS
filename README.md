@@ -43,4 +43,4 @@ All solvers are implemented in **MATLAB**. No external toolboxes are required be
 
 ## Reference
 
-> Moin, P., & Kim, J. (1980). On the numerical solution of time-dependent viscous incompressible fluid flows involving solid boundaries. Journal of computational physics, 35(3), 381-392.
+> Moin, P., & Kim, J. (1980). *On the numerical solution of time-dependent viscous incompressible fluid flows involving solid boundaries.* Journal of computational physics, 35(3), 381-392.
